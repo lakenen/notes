@@ -1,0 +1,3 @@
+# Cameron's Notes
+
+This is a repo of all the notes I take at conferences and stuff. It's probably not that useful to anyone, but here it is anyways...
