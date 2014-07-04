@@ -3,7 +3,7 @@
 My Schedule:
 * 5 - [shader-school](https://www.npmjs.org/package/shader-school)
 * 3 - [nodebot-workshop](https://www.npmjs.org/package/nodebot-workshop)
-* 1 -
+* 1 - [browserify-adventure](https://www.npmjs.org/package/browserify-adventure)
 * 8 -
 * 4 -
 * 7 -
