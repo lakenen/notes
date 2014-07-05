@@ -6,6 +6,6 @@ My Schedule:
 * 1 - [browserify-adventure](https://www.npmjs.org/package/browserify-adventure)
 * 8 - [levelmeup](https://www.npmjs.org/package/levelmeup)
 * 4 - [bug-clinic](https://www.npmjs.org/package/bug-clinic)
-* 7 -
-* 2 -
-* 6 -
+* 7 - [data-plumber](https://www.npmjs.org/package/data-plumber)
+* 2 - [npm-tutor](https://www.npmjs.org/package/npm-tutor)
+* 6 - [goingnative](https://www.npmjs.org/package/goingnative)
