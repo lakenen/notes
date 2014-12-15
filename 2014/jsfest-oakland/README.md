@@ -3,3 +3,4 @@
 - [browserified](browserified)
 - [extensible web summit](extensible-web-summit)
 - [cssconf](cssconf)
+- [nodeconf](nodeconf)
